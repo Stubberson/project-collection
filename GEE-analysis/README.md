@@ -7,7 +7,7 @@ I used Google Earth Engine to study the area through satellite imagery and spect
 * Spectral indices (IBI and NDVI) were used to analyze the change in the landscape and especially vegetation (figures 1 and 2).
 
 ## Results
-The spectral indices point to a decline in vegetation and an increase in "built-up" (non-vegetated) area on the Gaza Strip after Israeli bombing. In the gif-animation, one can spot smoke plumes in the northern part of the Strip (e.g. 16th of November 2023 and .
+The spectral indices point to a decline in vegetation and an increase in "built-up" (non-vegetated) area on the Gaza Strip after Israeli bombing. In the gif-animation, one can spot smoke plumes in the northern part of the Strip (e.g. 2nd of September and 16th of November 2023).
 
 ![gaza](https://github.com/user-attachments/assets/4ecc514a-39da-416d-bb16-21bc0c125740)
 
