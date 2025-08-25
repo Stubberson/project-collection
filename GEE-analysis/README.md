@@ -1,5 +1,5 @@
 # Satellite Analysis of Gaza
-This report examined the destruction of the Gaza Strip between April 2023 and April 2024.
+My report examined the destruction of the Gaza Strip between April 2023 and April 2024. More detailed examination is uploaded as the `.pdf`-file.
 
 ## Methodology
 I used Google Earth Engine to study the area through satellite imagery and spectral indices. More specifically, I used Sentinel-2 L2A multi-spectral imaging which offers orthorectified surface reflectance data.
