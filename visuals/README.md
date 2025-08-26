@@ -27,7 +27,7 @@ A personal project where a friend asked me to create Spotify clips for their alb
 https://github.com/user-attachments/assets/3d2c5fa2-6460-4d75-b400-1b90d8f482e3
 
 ## 3. City Explorer
-A school project where I got my first touches into animation and _augmented reality_ (AR). My goal was to rethink school excursions through immersive urban learning. I used Adobe Illustrator and After Effects to create the video and Unity to explore and demonstrate the AR application.
+A school project where I got my first touches into animation and augmented reality (AR). My goal was to rethink school excursions through immersive urban learning. I used Adobe Illustrator and After Effects to create the video and Unity to explore and demonstrate the AR application.
 
 
 
