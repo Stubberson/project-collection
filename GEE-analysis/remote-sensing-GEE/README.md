@@ -18,7 +18,7 @@ Classification legend: The closer to white the pixel is, the closer the tree cov
 
 _Figure 2. Tree cover percentage as the dependent variable._
 
-<img width="736" height="541" alt="Screenshot 2025-09-02 at 20 22 03" src="https://github.com/user-attachments/assets/cffb5b65-f466-4e98-921e-231f69776a9a" />
+<img width="719" height="508" alt="Screenshot 2025-09-02 at 20 42 23" src="https://github.com/user-attachments/assets/b5009814-e747-48a9-8c06-3d3476b44863" />
 
 _Figure 3. Predicted tree cover percentage for a larger area based on NDVI as the independent variable._
 
