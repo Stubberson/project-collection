@@ -14,8 +14,10 @@ _Figure 1. Random forest land cover classification._
 ## 2/2 Linear Regression in Remote Sensing
 Regression works in a similar way in the context of remote sensing as it would in any other context: you fit a model (in this case a line) into a (set of) independent variable(s) to predict the value of a dependent variable. Here we used a spectral index NDVI to predict the percentage of tree cover in and around Turin, Italy.
 
-_Figure 2 (on top). Tree cover percentage as the dependent variable. Figure 3. Predicted tree cover percentage for a larger area based on NDVI as the independent variable._
+_Figure 2. Tree cover percentage as the dependent variable._
 
 <img width="736" height="541" alt="Screenshot 2025-09-02 at 20 22 03" src="https://github.com/user-attachments/assets/cffb5b65-f466-4e98-921e-231f69776a9a" />
+
+_Figure 3. Predicted tree cover percentage for a larger area based on NDVI as the independent variable._
 
 <img width="704" height="558" alt="Screenshot 2025-09-02 at 20 22 16" src="https://github.com/user-attachments/assets/1e2e8e1c-eed7-48ac-a2ab-908a03e97f7a" />
