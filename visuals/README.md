@@ -53,7 +53,7 @@ A poster for my thesis work. ParticipAR was a further development-step from the 
 
 
 ### 3/3 Album Cover
-This was an album cover (which didn't end up to be used, but I like it) for my aforementioned friends. I used Photoshop and Illustrator for this work.
+This was an album cover (which didn't end up to be used, but I like it) for my aforementioned friends. I used Photoshop and Illustrator for this work. The original pictures for the collage are from [Unsplash](https://unsplash.com/).
 
 
 <img width="540" height="540" alt="motFuru_v1" src="https://github.com/user-attachments/assets/ad6ce4d1-4655-400e-8286-f3bcfbdc5698" />
